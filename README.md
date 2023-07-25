@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1> 👋 Hello, I'm Dinh Hoang </h1>
 
-<!--
-**DinhCongHoang/DinhCongHoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>A person who loves finding patterns behind business data, inspired to be Data Analyst.</h3>
 
-Here are some ideas to get you started:
+😄 Graduated from Hanoi Foreign Trade University, majoring in International Economics. Although coming from non-IT background, I've been fascinated about math, coding and its application in business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning SQL, Power BI, Python, Machine Learning and Analytical mindset applying in business.
+
+👯 Looking for opportunity to collaborate on any data analytic/business intelligence project.
+
+💬 Ask me about **SQL, Power BI, Python**
+
+📫 How to reach me: **hoangcongdinh00@gmail.com**
+
+
