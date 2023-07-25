@@ -8,6 +8,8 @@
 
 👯 Looking for opportunity to collaborate on any data analytic/business intelligence project.
 
+All of my projects are available at [https://github.com/DinhCongHoang](https://github.com/DinhCongHoang)
+
 💬 Ask me about **SQL, Power BI, Python**
 
 📫 How to reach me: **hoangcongdinh00@gmail.com**
