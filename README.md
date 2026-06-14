@@ -2,7 +2,7 @@
 
 <h3>A person who loves working with data, inspired to be Data Analyst.</h3>
 
-Graduated from Hanoi Foreign Trade University, majoring in International Economics. Although coming from non-IT background, I've been fascinated about data and its technique to apply in business. Proficiency in Google Sheets, SQL.
+Graduated from Hanoi Foreign Trade University, majoring in International Economics. Although coming from non-IT background, I've been fascinated about data and its application in business. Proficiency in Google Sheets, SQL.
 
 Looking for opportunity to collaborate on any data analytic/BI project, especially in Ecommerce or Banking sector.
 
